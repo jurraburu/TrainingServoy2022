@@ -41,6 +41,7 @@ uuid:"DD470E47-ABFB-4275-8513-C0E03FE84E7E"
 ],
 name:"form1",
 navigatorID:"-1",
+onUnLoadMethodID:"A0ADC9E9-9BD4-446A-9E87-41E28D8FAEE5",
 showInMenu:true,
 size:"632,480",
 typeid:3,
